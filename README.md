@@ -22,7 +22,7 @@ This repository contains a Python web application for interactive risk analysis 
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or suggestions, contact sahar.agarwal_ug2023@gmail.com
+For questions or suggestions, contact sahar.agarwal_ug2023@ashoka.edu.in 
 
    
 
